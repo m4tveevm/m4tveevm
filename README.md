@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about programming, algorithms, and 
 
 - 🔭 I’m currently working on **Computer-Aided Manufacturing software** at [Technopolis-Politech](http://technopolis.spbstu.ru/en/), developing algorithms for metal 3D printing using the WAAM method.
 - 🌱 I’m currently learning **Algorithms and Data Structures** to enhance my problem-solving skills and prepare for a backend development internship.
-- 🎓 I have a solid foundation in Python and industrial programming, gained through my studies at **Lyceum of Yandex Academy**.
+- 🎓 I have a solid foundation in Python and industrial programming, gained through my studies at **Yandex Academy Lyceum**.
 - 💼 My interests lie in Backend Development, System Design, and Microservices Architecture.
 
 ---
